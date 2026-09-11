@@ -180,3 +180,9 @@ The project is currently under development and can be extended with additional f
 ## 👨‍💻 Developer
 
 Developed as a college project for **Sree Venkateshwara College of Engineering (SVCE)**.
+# SVCE Student Registration Portal
+
+A modern and responsive **Student Registration Portal** developed for **Sree Venkateshwara College of Engineering (SVCE)**.
+
+🌐 **Live Demo:**  
+https://kancharlavinay-cse.github.io/student-registration-portal/
