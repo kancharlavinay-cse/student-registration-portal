@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">CIRCUIT BOARD</text>
+<text x="70" y="128" fill="#7be7ff" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">TRACE + COMPONENTS</text>
+<rect x="150" y="190" width="900" height="370" rx="25" fill="#082d35" stroke="{ece}" stroke-width="4"/><g fill="none" stroke="{ece}" stroke-width="5"><path d="M210 270H400V350H540V250H720V450H980"/><path d="M260 500V410H420V470H650V520H880V390"/></g><g fill="#132f3a" stroke="{ece}" stroke-width="3"><rect x="390" y="320" width="110" height="70"/><rect x="700" y="215" width="120" height="70"/><circle cx="260" cy="270" r="20"/><circle cx="900" cy="390" r="20"/></g>
+<rect x="70" y="650" width="1060" height="2" fill="#7be7ff" opacity=".35"/>
+</svg>

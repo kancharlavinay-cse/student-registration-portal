@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">ENGINE</text>
+<text x="70" y="128" fill="#ff9f43" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">POWER + ENGINEERING</text>
+<rect x="220" y="245" width="760" height="270" rx="28" fill="#12283a" stroke="{mech}" stroke-width="5"/><g stroke="{mech}" stroke-width="8" fill="#0a1724"><rect x="310" y="285" width="130" height="170"/><rect x="535" y="285" width="130" height="170"/><rect x="760" y="285" width="130" height="170"/></g><path d="M260 475H940" stroke="white" stroke-width="12"/><path d="M375 285V220M600 285V190M825 285V220" stroke="{mech}" stroke-width="12"/><circle cx="600" cy="520" r="28" fill="{mech}"/>
+<rect x="70" y="650" width="1060" height="2" fill="#ff9f43" opacity=".35"/>
+</svg>

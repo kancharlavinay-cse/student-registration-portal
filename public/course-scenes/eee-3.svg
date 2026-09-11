@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">CONTROL PANEL</text>
+<text x="70" y="128" fill="#ffd166" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">VOLTAGE + CONTROL</text>
+<rect x="190" y="180" width="820" height="390" rx="26" fill="#111f2b" stroke="{eee}" stroke-width="4"/><g fill="#0b1822" stroke="#52677a" stroke-width="2"><rect x="250" y="240" width="200" height="130" rx="14"/><rect x="500" y="240" width="200" height="130" rx="14"/><rect x="750" y="240" width="180" height="130" rx="14"/></g><text x="300" y="320" fill="{eee}" font-family="monospace" font-size="34">440V</text><text x="560" y="320" fill="{eee}" font-family="monospace" font-size="34">60Hz</text><text x="790" y="320" fill="{eee}" font-family="monospace" font-size="30">AUTO</text><circle cx="300" cy="455" r="24" fill="{eee}"/><circle cx="390" cy="455" r="24" fill="#334b5b"/><circle cx="480" cy="455" r="24" fill="{eee}"/>
+<rect x="70" y="650" width="1060" height="2" fill="#ffd166" opacity=".35"/>
+</svg>

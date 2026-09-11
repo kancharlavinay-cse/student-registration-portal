@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">CLOUD SOFTWARE</text>
+<text x="70" y="128" fill="#42c8ff" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">SYSTEMS AT SCALE</text>
+<g stroke="{cse}" stroke-width="4" fill="#0c2845"><rect x="170" y="300" width="220" height="160" rx="18"/><rect x="490" y="220" width="220" height="160" rx="18"/><rect x="810" y="300" width="220" height="160" rx="18"/></g><g stroke="{cse}" stroke-width="7" fill="none"><path d="M390 380H490M710 300H810M390 420L490 340M710 340L810 420"/></g><text x="230" y="390" fill="white" font-family="monospace" font-size="26">CLIENT</text><text x="550" y="310" fill="white" font-family="monospace" font-size="26">CLOUD</text><text x="870" y="390" fill="white" font-family="monospace" font-size="26">DATA</text><circle cx="600" cy="520" r="52" fill="none" stroke="{cse}" stroke-width="5"/><path d="M580 520l15 15 30-35" stroke="{cse}" stroke-width="8" fill="none"/>
+<rect x="70" y="650" width="1060" height="2" fill="#42c8ff" opacity=".35"/>
+</svg>

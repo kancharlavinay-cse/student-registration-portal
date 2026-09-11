@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">CONSTRUCTION</text>
+<text x="70" y="128" fill="#67d7a1" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">BUILD + ASSEMBLE</text>
+<g fill="#102d2b" stroke="{civil}" stroke-width="5"><rect x="260" y="390" width="150" height="160"/><rect x="440" y="320" width="150" height="230"/><rect x="620" y="260" width="150" height="290"/><rect x="800" y="350" width="150" height="200"/></g><path d="M190 230H850M760 230V170" stroke="{civil}" stroke-width="8"/><path d="M760 230L650 350" stroke="{civil}" stroke-width="6"/><rect x="630" y="345" width="45" height="30" fill="{civil}"/><path d="M230 570H990" stroke="white" stroke-width="10"/>
+<rect x="70" y="650" width="1060" height="2" fill="#67d7a1" opacity=".35"/>
+</svg>

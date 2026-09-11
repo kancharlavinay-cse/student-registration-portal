@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081326"/><stop offset="1" stop-color="#10264a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="720" rx="32" fill="url(#g)"/><path d="M0 590 Q300 470 600 590 T1200 560 V720 H0Z" fill="#06101f" opacity=".7"/>
+<text x="70" y="92" fill="white" font-family="Arial,sans-serif" font-size="34" font-weight="700">SITE SURVEY</text>
+<text x="70" y="128" fill="#67d7a1" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">MEASURE + MAP</text>
+<path d="M180 500L390 270L620 430L830 220L1030 390" fill="none" stroke="{civil}" stroke-width="7"/><g fill="#0e2a2b" stroke="{civil}" stroke-width="5"><circle cx="390" cy="270" r="26"/><circle cx="620" cy="430" r="26"/><circle cx="830" cy="220" r="26"/></g><path d="M300 550H900" stroke="white" stroke-width="6" stroke-dasharray="16 12"/><path d="M610 160V600" stroke="{civil}" stroke-width="3" stroke-dasharray="12 12"/><text x="460" y="650" fill="white" font-family="Arial" font-size="25">LAND • LEVEL • LAYOUT</text>
+<rect x="70" y="650" width="1060" height="2" fill="#67d7a1" opacity=".35"/>
+</svg>
