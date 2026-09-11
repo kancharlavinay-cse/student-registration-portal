@@ -269,7 +269,9 @@ function CourseAnimation({ course, go }) {
 
   const fileKey = course.short === "AI & DS" ? "ai" : course.short.toLowerCase();
   const slug = fileKey;
-  const sceneImages = [1,2,3,4].map(n => `/course-scenes/${fileKey}-${n}.svg`);
+  const sceneImages = [1,2,3,4].map(
+    n => `${import.meta.env.BASE_URL}course-scenes/${fileKey}-${n}.svg`
+  );
 
   return (
     <main className={`animation-page cinematic-page ${course.theme} anim-${slug}`}>
